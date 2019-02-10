@@ -1,4 +1,4 @@
-# Estudos de Caso em Machine Learning
+# Data Science Applications in R
 A Repository containing 2 applications of data science (regression and time series forecasting) in R language and some research papers published by me and 
 colleagues in this field.
 
